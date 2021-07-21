@@ -63,11 +63,11 @@ My first language was Python and I remember doing Discord bots (1 week ago of co
 ## Github Stats  (Pro GAMER Stats)
 <table><tr><td align="center" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jebediah47&count_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indopakistanos&count_private=true&show_icons=true&theme=radical)
 
 </td><td align="center" width="50%">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebediah47&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indopakistanos&layout=compact&theme=radical)
 
 </td></tr></table>  
 
