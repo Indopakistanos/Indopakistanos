@@ -1,4 +1,4 @@
-## Hey, I'm Chirs aka jeb47🚀  
+## Hey, I'm Nick aka Indos apo pakistan🚀  
 
 <td valign="top" width="50%">
 
@@ -10,32 +10,32 @@
 
 <br/>
 
-<a href="https://github.com/jebediah47" target="_blank">
+<a href="https://github.com/Indopakistanos" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iClxpper" target="_blank">
+<a href="https://twitter.com/Indopakistanos" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 
 <br/>
 
 ### Great to see you here! This is my programming journey🚗.  
-Hello, I'm Jeb a part-time developer and student! The reason I started programming is that since childhood I was always fascinated with PCs and all about tech in general, one day I saw how programs actually worked and I heard a person should do something called "programming" and I thought to myself "let's see a programming tutorial!"
+Hello, I'm Indopakistanos i dont have any idea what I'm doing with my life, I switch OS every 5 minutes, and im a pokimane tier 3 sub! Also something important that i should mention is that I'm a browser hybrid. The reason I started programming is that i have no idea what I'm doing so since childhood I was always fascinated with PCs and all about tech in general, one day I saw how programs actually worked and I heard a person saying that i dont have enough brain cells to do something called "programming" and I thought to myself "let's see a programming tutorial!"
 
-My first language was Python and I remember doing Discord bots then I switched to node.js and made some basic websites and then dove deep into the programming world and started learning a bunch of programming languages!   
+My first language was Python and I remember doing Discord bots (1 week ago of course) then I switched to node.js (which is already the base of discord bot but what ever we dont talk about that here!) and made some basic websites (totally) and then dove deep into the programming world and started learning a bunch of programming languages! And what I mean by learning is just looking at the name for 10 minutes! I like eating toes and if im lucky they have dirt on them too! Lastly i would like to add that i like my stepsister and she is an angel!
 
 ## Currently using:
 
-- ⌨️ OS: MacOS BigSur
+- ⌨️ OS: Alpachino Linux
 
 
-- 📝 IDE: Neovim 
+- 📝 IDE: Hacking software Neovim 
 
 
-- 🧠 BRAIN   
+- 🧠 BRAIN (if i had one at least!)  
 
 
-## Languages and Tools  
+## Languages and Tools  (everything i have looked at of course)
 <div align="center">  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="48" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="48" />  
@@ -60,7 +60,7 @@ My first language was Python and I remember doing Discord bots then I switched t
 <br/>  
 
 
-## Github Stats  
+## Github Stats  (Pro GAMER Stats)
 <table><tr><td align="center" width="50%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jebediah47&count_private=true&show_icons=true&theme=radical)
@@ -73,4 +73,4 @@ My first language was Python and I remember doing Discord bots then I switched t
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=jebediah47&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=Indopakistanos&&style=flat-square)  
